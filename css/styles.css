@@ -62,7 +62,7 @@ letter-spacing: 0.54px;
 .header-link {
     text-decoration: none;
     font-style: normal;
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: var(--color-navyblue);
 
 font-family: Roboto;
 font-size: 16px;
@@ -75,7 +75,7 @@ letter-spacing: 0.32px;
 .contacts-link {
     text-decoration: none;
     font-style: normal;
-    color: var(--SLATE, #434455);
+    color: var(--color-slate);
 
 font-family: Roboto;
 font-size: 16px;
@@ -95,7 +95,7 @@ letter-spacing: 0.32px;
 
 .project-name {
     text-decoration: none;
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: var(--color-navyblue);
 font-family: Roboto;
 font-size: 20px;
 font-style: normal;
@@ -106,7 +106,7 @@ letter-spacing: 0.4px;
 
 .project-type {
     text-decoration: none;
-    color: var(--SLATE, #434455);
+    color: var(--color-slate);
 font-family: Roboto;
 font-size: 16px;
 font-style: normal;
