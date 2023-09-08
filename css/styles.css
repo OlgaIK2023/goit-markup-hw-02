@@ -26,3 +26,53 @@ body {
     text-decoration: none;
 
 }
+
+.header-logo {
+    text-decoration: none;
+}
+
+
+.header-link {
+    text-decoration: none;   
+}
+
+.contacts-link {
+    text-decoration: none;
+}
+
+.portfoliocards {
+    background-color: var(--color-white);
+    border: 1px solid;
+    border-color: var(--color-cornflower);
+    text-decoration: none;
+}
+
+.project-name {
+    text-decoration: none;
+    color: var(--NAVY-BLUE, #2E2F42);
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.4px;
+}
+
+.project-type {
+    text-decoration: none;
+    color: var(--SLATE, #434455);
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.32px;
+}
+
+.project {
+    text-decoration: none;
+}
+
+.footer-logo {
+    text-decoration: none;
+}
