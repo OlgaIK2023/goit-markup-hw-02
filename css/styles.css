@@ -27,17 +27,62 @@ body {
 
 }
 
+ul {
+    list-style-type: none;
+}
+
 .header-logo {
     text-decoration: none;
+    text-transform: uppercase;
+
+    color: var(--color-navyblue);
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.54px;
+
+}
+
+.header-logo .accent {
+    color: var(--color-iris);
 }
 
 
+.header-logo:hover {
+    color: var(--color-iris);}
+
+
+.header-logo:focus {
+        color: var(--color-iris);}
+
+
+
 .header-link {
-    text-decoration: none;   
+    text-decoration: none;
+    font-style: normal;
+    color: var(--NAVY-BLUE, #2E2F42);
+
+font-family: Roboto;
+font-size: 16px;
+
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.32px;   
 }
 
 .contacts-link {
     text-decoration: none;
+    font-style: normal;
+    color: var(--SLATE, #434455);
+
+font-family: Roboto;
+font-size: 16px;
+
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.32px;
 }
 
 .portfoliocards {
@@ -45,6 +90,7 @@ body {
     border: 1px solid;
     border-color: var(--color-cornflower);
     text-decoration: none;
+    
 }
 
 .project-name {
