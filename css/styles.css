@@ -23,5 +23,6 @@ body {
     letter-spacing: 0.32px;
     color: var(--color-slate);
     background-color: none;
+    text-decoration: none;
 
 }
