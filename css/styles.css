@@ -221,6 +221,7 @@ text-transform: capitalize;
 
 .section-team {
     text-align: center;
+    background-color: var(--color-cloud);
 }
 
 
@@ -284,6 +285,55 @@ letter-spacing: 0.32px;
     text-decoration: none;
 }
 
+.footer {
+    background-color: var(--color-navyblue);
+}
+
 .footer-logo {
     text-decoration: none;
+    font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+color: var(--color-white);
+
+
+margin-top: 102px;
+margin-left: 156px;
+margin-bottom: 190px;
+
+}
+
+.footer-logo .accent {
+    color: var(--color-iris);
+}
+
+
+.footer-logo:hover {
+    color: var(--color-iris);}
+
+
+.footer-logo:focus {
+        color: var(--color-iris);}
+
+.footer-text {
+    color: var(--color-cloud);
+
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.32px;
+width: 264px;
+
+
+
+margin-left: 156px;
+margin-bottom: 100px;
+
+
 }
