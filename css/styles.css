@@ -135,10 +135,10 @@ font-weight: 700;
 line-height: 1.07;
 letter-spacing: 1.12px;
 
-margin-top: 188px;
+/* margin-top: 188px;
 margin-right: 472px;
 margin-bottom: 292px;
-margin-left: 472px;
+margin-left: 472px; */
 
 }
 
@@ -157,10 +157,10 @@ background-color: var(--color-iris);
 /* align-items: flex-start; */
 /* gap: 10px */
 
-margin-top: 428px;
+/* margin-top: 428px;
 margin-right: 635px;
 margin-bottom: 188px;
-margin-left: 636px; 
+margin-left: 636px;  */
 
 border: 0;
 /* border-radius: 4px;
@@ -177,11 +177,6 @@ text-align: center;
 }
 
 .order-button { cursor: pointer; 
-}
-
-
-.benefits {
-    
 }
 
 .benefit-title {
@@ -322,9 +317,9 @@ text-transform: uppercase;
 color: var(--color-iris);
 
 
-margin-top: 102px;
+/* margin-top: 102px;
 margin-left: 156px;
-margin-bottom: 190px;
+margin-bottom: 190px; */
 
 }
 
@@ -353,8 +348,8 @@ letter-spacing: 0.32px;
 
 
 
-margin-left: 156px;
-margin-bottom: 100px;
+/* margin-left: 156px;
+margin-bottom: 100px; */
 
 
 }
