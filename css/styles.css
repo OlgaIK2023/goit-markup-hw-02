@@ -119,14 +119,13 @@ letter-spacing: 0.32px;
 
 .hero-section {
     background-color: var(--color-navyblue);
-    width: 1440px;
-height: 600px;
-flex-shrink: 0;
+    
+/* flex-shrink: 0; */
 }
 
 .hero-title {
 color: var(--color-white);
-/* width: 496px; */
+
 text-align: center;
 
 font-family: Roboto;
@@ -153,10 +152,10 @@ line-height: 1.5;
 letter-spacing: 0.64px;
 background-color: var(--color-iris);
 
-display: inline-flex;
-padding: 16px 32px;
-align-items: flex-start;
-gap: 10px
+/* display: inline-flex; */
+/* padding: 16px 32px; */
+/* align-items: flex-start; */
+/* gap: 10px */
 
 margin-top: 428px;
 margin-right: 635px;
@@ -164,8 +163,8 @@ margin-bottom: 188px;
 margin-left: 636px; 
 
 border: 0;
-border-radius: 4px;
-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+/* border-radius: 4px;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15); */
 text-align: center;
 }
 
@@ -194,13 +193,13 @@ font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
 
-width: 264px;
 
-display: flex;
-width: 264px;
-flex-direction: column;
-align-items: flex-start;
-gap: 8px;
+
+/* display: flex; */
+
+/* flex-direction: column; */
+/* align-items: flex-start; */
+/* gap: 8px; */
 
 
 }
@@ -214,7 +213,7 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.32px;
 
-width: 264px;
+
 }
 
 .section-title {
@@ -238,15 +237,15 @@ text-transform: capitalize;
 
 
 .person-card {
-    display: inline-flex;
-padding-bottom: 0px;
-flex-direction: column;
+/* display: inline-flex; */
+/* padding-bottom: 0px;
+flex-direction: column; */
 justify-content: center;
-align-items: center;
-gap: 32px;
-border-radius: 0px 0px 4px 4px;
+/* align-items: center; */
+/* gap: 32px;
+border-radius: 0px 0px 4px 4px; */
 background: var(--color-white);
-box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+/* box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08); */
 
 
 }
@@ -270,14 +269,13 @@ letter-spacing: 0.02em;
     text-decoration: none;
     
 
-    display: flex;
-width: 360px;
-height: 420px;
-padding-bottom: 0px;
-flex-direction: column;
-align-items: flex-start;
-gap: 32px;
-flex-shrink: 0;
+    /* display: flex; */
+
+/* padding-bottom: 0px;
+flex-direction: column; */
+/* align-items: flex-start; */
+/* gap: 32px;
+flex-shrink: 0; */
 
 
 }
@@ -351,7 +349,7 @@ font-style: normal;
 font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.32px;
-width: 264px;
+
 
 
 
