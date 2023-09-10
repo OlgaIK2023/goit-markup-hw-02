@@ -144,8 +144,8 @@ margin-left: 472px;
 }
 
 .order-button {
-    color: var(--color-white);
-font-family: Roboto;
+color: var(--color-white);
+font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
@@ -192,7 +192,7 @@ font-size: 20px;
 font-style: normal;
 font-weight: 500;
 line-height: 1.2;
-letter-spacing: 0.4px
+letter-spacing: 0.02em;
 
 width: 264px;
 
@@ -251,6 +251,17 @@ box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47,
 
 }
 
+.person-name {
+    color: var(--color-navyblue);
+text-align: center;
+font-family: Roboto, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
 
 .portfoliocards {
     background-color: var(--color-white);
@@ -303,14 +314,14 @@ letter-spacing: 0.32px;
 
 .footer-logo {
     text-decoration: none;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
-color: var(--color-white);
+color: var(--color-iris);
 
 
 margin-top: 102px;
@@ -320,7 +331,7 @@ margin-bottom: 190px;
 }
 
 .footer-logo .accent {
-    color: var(--color-iris);
+    color: var(--color-cloud);
 }
 
 
