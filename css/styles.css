@@ -126,7 +126,7 @@ letter-spacing: 0.32px;
 .hero-title {
 color: var(--color-white);
 
-text-align: center;
+/* text-align: center; */
 
 font-family: Roboto;
 font-size: 56px;
@@ -165,7 +165,7 @@ margin-left: 636px;  */
 border: 0;
 /* border-radius: 4px;
 box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15); */
-text-align: center;
+/* text-align: center; */
 }
 
 .order-button:hover {
@@ -213,7 +213,7 @@ letter-spacing: 0.32px;
 
 .section-title {
     color: var(--color-navyblue);
-text-align: center;
+/* text-align: center; */
 
 font-family: Roboto;
 font-size: 36px;
@@ -226,7 +226,7 @@ text-transform: capitalize;
 }
 
 .section-team {
-    text-align: center;
+    /* text-align: center; */
     background-color: var(--color-cloud);
 }
 
@@ -235,7 +235,7 @@ text-transform: capitalize;
 /* display: inline-flex; */
 /* padding-bottom: 0px;
 flex-direction: column; */
-justify-content: center;
+/* justify-content: center; */
 /* align-items: center; */
 /* gap: 32px;
 border-radius: 0px 0px 4px 4px; */
@@ -247,7 +247,7 @@ background: var(--color-white);
 
 .person-name {
     color: var(--color-navyblue);
-text-align: center;
+/* text-align: center; */
 font-family: Roboto, sans-serif;
 font-size: 20px;
 font-style: normal;
